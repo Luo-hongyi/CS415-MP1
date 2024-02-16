@@ -1,1 +1,2 @@
-# CS415-MP1
+# An Infinite Matrix Game
+CS415-MP1
